@@ -1,0 +1,2402 @@
+[
+  {
+    "path": "results/circlehole1/alpha0/ckpt_alpha0_A1.pt",
+    "step": 16,
+    "damage_nodes": 21088,
+    "history_elements": 41631,
+    "network_parameter_shapes": {
+      "net.0.weight": [
+        200,
+        2
+      ],
+      "net.0.bias": [
+        200
+      ],
+      "net.1.m": [
+        200
+      ],
+      "net.2.weight": [
+        200,
+        200
+      ],
+      "net.2.bias": [
+        200
+      ],
+      "net.3.m": [
+        200
+      ],
+      "net.4.weight": [
+        200,
+        200
+      ],
+      "net.4.bias": [
+        200
+      ],
+      "net.5.m": [
+        200
+      ],
+      "net.6.weight": [
+        200,
+        200
+      ],
+      "net.6.bias": [
+        200
+      ],
+      "net.7.m": [
+        200
+      ],
+      "net.8.weight": [
+        200,
+        200
+      ],
+      "net.8.bias": [
+        200
+      ],
+      "net.9.m": [
+        200
+      ],
+      "net.10.weight": [
+        200,
+        200
+      ],
+      "net.10.bias": [
+        200
+      ],
+      "net.11.m": [
+        200
+      ],
+      "net.12.weight": [
+        2,
+        200
+      ],
+      "net.12.bias": [
+        2
+      ]
+    }
+  },
+  {
+    "path": "results/circlehole1/alpha15/ckpt_alpha15_A1.pt",
+    "step": 16,
+    "damage_nodes": 21088,
+    "history_elements": 41631,
+    "network_parameter_shapes": {
+      "net.0.weight": [
+        200,
+        2
+      ],
+      "net.0.bias": [
+        200
+      ],
+      "net.1.m": [
+        200
+      ],
+      "net.2.weight": [
+        200,
+        200
+      ],
+      "net.2.bias": [
+        200
+      ],
+      "net.3.m": [
+        200
+      ],
+      "net.4.weight": [
+        200,
+        200
+      ],
+      "net.4.bias": [
+        200
+      ],
+      "net.5.m": [
+        200
+      ],
+      "net.6.weight": [
+        200,
+        200
+      ],
+      "net.6.bias": [
+        200
+      ],
+      "net.7.m": [
+        200
+      ],
+      "net.8.weight": [
+        200,
+        200
+      ],
+      "net.8.bias": [
+        200
+      ],
+      "net.9.m": [
+        200
+      ],
+      "net.10.weight": [
+        200,
+        200
+      ],
+      "net.10.bias": [
+        200
+      ],
+      "net.11.m": [
+        200
+      ],
+      "net.12.weight": [
+        2,
+        200
+      ],
+      "net.12.bias": [
+        2
+      ]
+    }
+  },
+  {
+    "path": "results/circlehole1/alpha30/ckpt_alpha30_A1.pt",
+    "step": 16,
+    "damage_nodes": 21088,
+    "history_elements": 41631,
+    "network_parameter_shapes": {
+      "net.0.weight": [
+        200,
+        2
+      ],
+      "net.0.bias": [
+        200
+      ],
+      "net.1.m": [
+        200
+      ],
+      "net.2.weight": [
+        200,
+        200
+      ],
+      "net.2.bias": [
+        200
+      ],
+      "net.3.m": [
+        200
+      ],
+      "net.4.weight": [
+        200,
+        200
+      ],
+      "net.4.bias": [
+        200
+      ],
+      "net.5.m": [
+        200
+      ],
+      "net.6.weight": [
+        200,
+        200
+      ],
+      "net.6.bias": [
+        200
+      ],
+      "net.7.m": [
+        200
+      ],
+      "net.8.weight": [
+        200,
+        200
+      ],
+      "net.8.bias": [
+        200
+      ],
+      "net.9.m": [
+        200
+      ],
+      "net.10.weight": [
+        200,
+        200
+      ],
+      "net.10.bias": [
+        200
+      ],
+      "net.11.m": [
+        200
+      ],
+      "net.12.weight": [
+        2,
+        200
+      ],
+      "net.12.bias": [
+        2
+      ]
+    }
+  },
+  {
+    "path": "results/circlehole1/alpha30-0.2/ckpt_alpha30_A1.pt",
+    "step": 20,
+    "damage_nodes": 21088,
+    "history_elements": 41631,
+    "network_parameter_shapes": {
+      "net.0.weight": [
+        200,
+        2
+      ],
+      "net.0.bias": [
+        200
+      ],
+      "net.1.m": [
+        200
+      ],
+      "net.2.weight": [
+        200,
+        200
+      ],
+      "net.2.bias": [
+        200
+      ],
+      "net.3.m": [
+        200
+      ],
+      "net.4.weight": [
+        200,
+        200
+      ],
+      "net.4.bias": [
+        200
+      ],
+      "net.5.m": [
+        200
+      ],
+      "net.6.weight": [
+        200,
+        200
+      ],
+      "net.6.bias": [
+        200
+      ],
+      "net.7.m": [
+        200
+      ],
+      "net.8.weight": [
+        200,
+        200
+      ],
+      "net.8.bias": [
+        200
+      ],
+      "net.9.m": [
+        200
+      ],
+      "net.10.weight": [
+        200,
+        200
+      ],
+      "net.10.bias": [
+        200
+      ],
+      "net.11.m": [
+        200
+      ],
+      "net.12.weight": [
+        2,
+        200
+      ],
+      "net.12.bias": [
+        2
+      ]
+    }
+  },
+  {
+    "path": "results/circlehole1/alpha30-0.3/ckpt_alpha30_A1.pt",
+    "step": 18,
+    "damage_nodes": 21088,
+    "history_elements": 41631,
+    "network_parameter_shapes": {
+      "net.0.weight": [
+        200,
+        2
+      ],
+      "net.0.bias": [
+        200
+      ],
+      "net.1.m": [
+        200
+      ],
+      "net.2.weight": [
+        200,
+        200
+      ],
+      "net.2.bias": [
+        200
+      ],
+      "net.3.m": [
+        200
+      ],
+      "net.4.weight": [
+        200,
+        200
+      ],
+      "net.4.bias": [
+        200
+      ],
+      "net.5.m": [
+        200
+      ],
+      "net.6.weight": [
+        200,
+        200
+      ],
+      "net.6.bias": [
+        200
+      ],
+      "net.7.m": [
+        200
+      ],
+      "net.8.weight": [
+        200,
+        200
+      ],
+      "net.8.bias": [
+        200
+      ],
+      "net.9.m": [
+        200
+      ],
+      "net.10.weight": [
+        200,
+        200
+      ],
+      "net.10.bias": [
+        200
+      ],
+      "net.11.m": [
+        200
+      ],
+      "net.12.weight": [
+        2,
+        200
+      ],
+      "net.12.bias": [
+        2
+      ]
+    }
+  },
+  {
+    "path": "results/circlehole1/alpha30-0.8/ckpt_alpha30_A1.pt",
+    "step": 13,
+    "damage_nodes": 21088,
+    "history_elements": 41631,
+    "network_parameter_shapes": {
+      "net.0.weight": [
+        200,
+        2
+      ],
+      "net.0.bias": [
+        200
+      ],
+      "net.1.m": [
+        200
+      ],
+      "net.2.weight": [
+        200,
+        200
+      ],
+      "net.2.bias": [
+        200
+      ],
+      "net.3.m": [
+        200
+      ],
+      "net.4.weight": [
+        200,
+        200
+      ],
+      "net.4.bias": [
+        200
+      ],
+      "net.5.m": [
+        200
+      ],
+      "net.6.weight": [
+        200,
+        200
+      ],
+      "net.6.bias": [
+        200
+      ],
+      "net.7.m": [
+        200
+      ],
+      "net.8.weight": [
+        200,
+        200
+      ],
+      "net.8.bias": [
+        200
+      ],
+      "net.9.m": [
+        200
+      ],
+      "net.10.weight": [
+        200,
+        200
+      ],
+      "net.10.bias": [
+        200
+      ],
+      "net.11.m": [
+        200
+      ],
+      "net.12.weight": [
+        2,
+        200
+      ],
+      "net.12.bias": [
+        2
+      ]
+    }
+  },
+  {
+    "path": "results/circlehole1/alpha30-1.2/ckpt_alpha30_A1.pt",
+    "step": 11,
+    "damage_nodes": 21088,
+    "history_elements": 41631,
+    "network_parameter_shapes": {
+      "net.0.weight": [
+        200,
+        2
+      ],
+      "net.0.bias": [
+        200
+      ],
+      "net.1.m": [
+        200
+      ],
+      "net.2.weight": [
+        200,
+        200
+      ],
+      "net.2.bias": [
+        200
+      ],
+      "net.3.m": [
+        200
+      ],
+      "net.4.weight": [
+        200,
+        200
+      ],
+      "net.4.bias": [
+        200
+      ],
+      "net.5.m": [
+        200
+      ],
+      "net.6.weight": [
+        200,
+        200
+      ],
+      "net.6.bias": [
+        200
+      ],
+      "net.7.m": [
+        200
+      ],
+      "net.8.weight": [
+        200,
+        200
+      ],
+      "net.8.bias": [
+        200
+      ],
+      "net.9.m": [
+        200
+      ],
+      "net.10.weight": [
+        200,
+        200
+      ],
+      "net.10.bias": [
+        200
+      ],
+      "net.11.m": [
+        200
+      ],
+      "net.12.weight": [
+        2,
+        200
+      ],
+      "net.12.bias": [
+        2
+      ]
+    }
+  },
+  {
+    "path": "results/circlehole1/alpha30-m0.1/ckpt_alpha30_A1.pt",
+    "step": 15,
+    "damage_nodes": 40711,
+    "history_elements": 80711,
+    "network_parameter_shapes": {
+      "net.0.weight": [
+        200,
+        2
+      ],
+      "net.0.bias": [
+        200
+      ],
+      "net.1.m": [
+        200
+      ],
+      "net.2.weight": [
+        200,
+        200
+      ],
+      "net.2.bias": [
+        200
+      ],
+      "net.3.m": [
+        200
+      ],
+      "net.4.weight": [
+        200,
+        200
+      ],
+      "net.4.bias": [
+        200
+      ],
+      "net.5.m": [
+        200
+      ],
+      "net.6.weight": [
+        200,
+        200
+      ],
+      "net.6.bias": [
+        200
+      ],
+      "net.7.m": [
+        200
+      ],
+      "net.8.weight": [
+        200,
+        200
+      ],
+      "net.8.bias": [
+        200
+      ],
+      "net.9.m": [
+        200
+      ],
+      "net.10.weight": [
+        200,
+        200
+      ],
+      "net.10.bias": [
+        200
+      ],
+      "net.11.m": [
+        200
+      ],
+      "net.12.weight": [
+        2,
+        200
+      ],
+      "net.12.bias": [
+        2
+      ]
+    }
+  },
+  {
+    "path": "results/circlehole1/alpha30-m0.2/ckpt_alpha30_A1.pt",
+    "step": 15,
+    "damage_nodes": 11799,
+    "history_elements": 23169,
+    "network_parameter_shapes": {
+      "net.0.weight": [
+        200,
+        2
+      ],
+      "net.0.bias": [
+        200
+      ],
+      "net.1.m": [
+        200
+      ],
+      "net.2.weight": [
+        200,
+        200
+      ],
+      "net.2.bias": [
+        200
+      ],
+      "net.3.m": [
+        200
+      ],
+      "net.4.weight": [
+        200,
+        200
+      ],
+      "net.4.bias": [
+        200
+      ],
+      "net.5.m": [
+        200
+      ],
+      "net.6.weight": [
+        200,
+        200
+      ],
+      "net.6.bias": [
+        200
+      ],
+      "net.7.m": [
+        200
+      ],
+      "net.8.weight": [
+        200,
+        200
+      ],
+      "net.8.bias": [
+        200
+      ],
+      "net.9.m": [
+        200
+      ],
+      "net.10.weight": [
+        200,
+        200
+      ],
+      "net.10.bias": [
+        200
+      ],
+      "net.11.m": [
+        200
+      ],
+      "net.12.weight": [
+        2,
+        200
+      ],
+      "net.12.bias": [
+        2
+      ]
+    }
+  },
+  {
+    "path": "results/circlehole1/alpha30-m0.3/ckpt_alpha30_A1.pt",
+    "step": 16,
+    "damage_nodes": 5890,
+    "history_elements": 11452,
+    "network_parameter_shapes": {
+      "net.0.weight": [
+        200,
+        2
+      ],
+      "net.0.bias": [
+        200
+      ],
+      "net.1.m": [
+        200
+      ],
+      "net.2.weight": [
+        200,
+        200
+      ],
+      "net.2.bias": [
+        200
+      ],
+      "net.3.m": [
+        200
+      ],
+      "net.4.weight": [
+        200,
+        200
+      ],
+      "net.4.bias": [
+        200
+      ],
+      "net.5.m": [
+        200
+      ],
+      "net.6.weight": [
+        200,
+        200
+      ],
+      "net.6.bias": [
+        200
+      ],
+      "net.7.m": [
+        200
+      ],
+      "net.8.weight": [
+        200,
+        200
+      ],
+      "net.8.bias": [
+        200
+      ],
+      "net.9.m": [
+        200
+      ],
+      "net.10.weight": [
+        200,
+        200
+      ],
+      "net.10.bias": [
+        200
+      ],
+      "net.11.m": [
+        200
+      ],
+      "net.12.weight": [
+        2,
+        200
+      ],
+      "net.12.bias": [
+        2
+      ]
+    }
+  },
+  {
+    "path": "results/circlehole1/alpha30-m0.5/ckpt_alpha30_A1.pt",
+    "step": 16,
+    "damage_nodes": 2756,
+    "history_elements": 5277,
+    "network_parameter_shapes": {
+      "net.0.weight": [
+        200,
+        2
+      ],
+      "net.0.bias": [
+        200
+      ],
+      "net.1.m": [
+        200
+      ],
+      "net.2.weight": [
+        200,
+        200
+      ],
+      "net.2.bias": [
+        200
+      ],
+      "net.3.m": [
+        200
+      ],
+      "net.4.weight": [
+        200,
+        200
+      ],
+      "net.4.bias": [
+        200
+      ],
+      "net.5.m": [
+        200
+      ],
+      "net.6.weight": [
+        200,
+        200
+      ],
+      "net.6.bias": [
+        200
+      ],
+      "net.7.m": [
+        200
+      ],
+      "net.8.weight": [
+        200,
+        200
+      ],
+      "net.8.bias": [
+        200
+      ],
+      "net.9.m": [
+        200
+      ],
+      "net.10.weight": [
+        200,
+        200
+      ],
+      "net.10.bias": [
+        200
+      ],
+      "net.11.m": [
+        200
+      ],
+      "net.12.weight": [
+        2,
+        200
+      ],
+      "net.12.bias": [
+        2
+      ]
+    }
+  },
+  {
+    "path": "results/circlehole1/alpha30-m0.8/ckpt_alpha30_A1.pt",
+    "step": 17,
+    "damage_nodes": 1754,
+    "history_elements": 3302,
+    "network_parameter_shapes": {
+      "net.0.weight": [
+        200,
+        2
+      ],
+      "net.0.bias": [
+        200
+      ],
+      "net.1.m": [
+        200
+      ],
+      "net.2.weight": [
+        200,
+        200
+      ],
+      "net.2.bias": [
+        200
+      ],
+      "net.3.m": [
+        200
+      ],
+      "net.4.weight": [
+        200,
+        200
+      ],
+      "net.4.bias": [
+        200
+      ],
+      "net.5.m": [
+        200
+      ],
+      "net.6.weight": [
+        200,
+        200
+      ],
+      "net.6.bias": [
+        200
+      ],
+      "net.7.m": [
+        200
+      ],
+      "net.8.weight": [
+        200,
+        200
+      ],
+      "net.8.bias": [
+        200
+      ],
+      "net.9.m": [
+        200
+      ],
+      "net.10.weight": [
+        200,
+        200
+      ],
+      "net.10.bias": [
+        200
+      ],
+      "net.11.m": [
+        200
+      ],
+      "net.12.weight": [
+        2,
+        200
+      ],
+      "net.12.bias": [
+        2
+      ]
+    }
+  },
+  {
+    "path": "results/circlehole1/alpha30-m1.2/ckpt_alpha30_A1.pt",
+    "step": 17,
+    "damage_nodes": 930,
+    "history_elements": 1705,
+    "network_parameter_shapes": {
+      "net.0.weight": [
+        200,
+        2
+      ],
+      "net.0.bias": [
+        200
+      ],
+      "net.1.m": [
+        200
+      ],
+      "net.2.weight": [
+        200,
+        200
+      ],
+      "net.2.bias": [
+        200
+      ],
+      "net.3.m": [
+        200
+      ],
+      "net.4.weight": [
+        200,
+        200
+      ],
+      "net.4.bias": [
+        200
+      ],
+      "net.5.m": [
+        200
+      ],
+      "net.6.weight": [
+        200,
+        200
+      ],
+      "net.6.bias": [
+        200
+      ],
+      "net.7.m": [
+        200
+      ],
+      "net.8.weight": [
+        200,
+        200
+      ],
+      "net.8.bias": [
+        200
+      ],
+      "net.9.m": [
+        200
+      ],
+      "net.10.weight": [
+        200,
+        200
+      ],
+      "net.10.bias": [
+        200
+      ],
+      "net.11.m": [
+        200
+      ],
+      "net.12.weight": [
+        2,
+        200
+      ],
+      "net.12.bias": [
+        2
+      ]
+    }
+  },
+  {
+    "path": "results/circlehole1/alpha30-m2/ckpt_alpha30_A1.pt",
+    "step": 19,
+    "damage_nodes": 418,
+    "history_elements": 730,
+    "network_parameter_shapes": {
+      "net.0.weight": [
+        200,
+        2
+      ],
+      "net.0.bias": [
+        200
+      ],
+      "net.1.m": [
+        200
+      ],
+      "net.2.weight": [
+        200,
+        200
+      ],
+      "net.2.bias": [
+        200
+      ],
+      "net.3.m": [
+        200
+      ],
+      "net.4.weight": [
+        200,
+        200
+      ],
+      "net.4.bias": [
+        200
+      ],
+      "net.5.m": [
+        200
+      ],
+      "net.6.weight": [
+        200,
+        200
+      ],
+      "net.6.bias": [
+        200
+      ],
+      "net.7.m": [
+        200
+      ],
+      "net.8.weight": [
+        200,
+        200
+      ],
+      "net.8.bias": [
+        200
+      ],
+      "net.9.m": [
+        200
+      ],
+      "net.10.weight": [
+        200,
+        200
+      ],
+      "net.10.bias": [
+        200
+      ],
+      "net.11.m": [
+        200
+      ],
+      "net.12.weight": [
+        2,
+        200
+      ],
+      "net.12.bias": [
+        2
+      ]
+    }
+  },
+  {
+    "path": "results/circlehole1/alpha30-step1/ckpt_alpha30_A1.pt",
+    "step": 1,
+    "damage_nodes": 21088,
+    "history_elements": 41631,
+    "network_parameter_shapes": {
+      "net.0.weight": [
+        200,
+        2
+      ],
+      "net.0.bias": [
+        200
+      ],
+      "net.1.m": [
+        200
+      ],
+      "net.2.weight": [
+        200,
+        200
+      ],
+      "net.2.bias": [
+        200
+      ],
+      "net.3.m": [
+        200
+      ],
+      "net.4.weight": [
+        200,
+        200
+      ],
+      "net.4.bias": [
+        200
+      ],
+      "net.5.m": [
+        200
+      ],
+      "net.6.weight": [
+        200,
+        200
+      ],
+      "net.6.bias": [
+        200
+      ],
+      "net.7.m": [
+        200
+      ],
+      "net.8.weight": [
+        200,
+        200
+      ],
+      "net.8.bias": [
+        200
+      ],
+      "net.9.m": [
+        200
+      ],
+      "net.10.weight": [
+        200,
+        200
+      ],
+      "net.10.bias": [
+        200
+      ],
+      "net.11.m": [
+        200
+      ],
+      "net.12.weight": [
+        2,
+        200
+      ],
+      "net.12.bias": [
+        2
+      ]
+    }
+  },
+  {
+    "path": "results/circlehole1/alpha30-step15/ckpt_alpha30_A1.pt",
+    "step": 16,
+    "damage_nodes": 21088,
+    "history_elements": 41631,
+    "network_parameter_shapes": {
+      "net.0.weight": [
+        200,
+        2
+      ],
+      "net.0.bias": [
+        200
+      ],
+      "net.1.m": [
+        200
+      ],
+      "net.2.weight": [
+        200,
+        200
+      ],
+      "net.2.bias": [
+        200
+      ],
+      "net.3.m": [
+        200
+      ],
+      "net.4.weight": [
+        200,
+        200
+      ],
+      "net.4.bias": [
+        200
+      ],
+      "net.5.m": [
+        200
+      ],
+      "net.6.weight": [
+        200,
+        200
+      ],
+      "net.6.bias": [
+        200
+      ],
+      "net.7.m": [
+        200
+      ],
+      "net.8.weight": [
+        200,
+        200
+      ],
+      "net.8.bias": [
+        200
+      ],
+      "net.9.m": [
+        200
+      ],
+      "net.10.weight": [
+        200,
+        200
+      ],
+      "net.10.bias": [
+        200
+      ],
+      "net.11.m": [
+        200
+      ],
+      "net.12.weight": [
+        2,
+        200
+      ],
+      "net.12.bias": [
+        2
+      ]
+    }
+  },
+  {
+    "path": "results/circlehole1/alpha30-step23/ckpt_alpha30_A1.pt",
+    "step": 24,
+    "damage_nodes": 21088,
+    "history_elements": 41631,
+    "network_parameter_shapes": {
+      "net.0.weight": [
+        200,
+        2
+      ],
+      "net.0.bias": [
+        200
+      ],
+      "net.1.m": [
+        200
+      ],
+      "net.2.weight": [
+        200,
+        200
+      ],
+      "net.2.bias": [
+        200
+      ],
+      "net.3.m": [
+        200
+      ],
+      "net.4.weight": [
+        200,
+        200
+      ],
+      "net.4.bias": [
+        200
+      ],
+      "net.5.m": [
+        200
+      ],
+      "net.6.weight": [
+        200,
+        200
+      ],
+      "net.6.bias": [
+        200
+      ],
+      "net.7.m": [
+        200
+      ],
+      "net.8.weight": [
+        200,
+        200
+      ],
+      "net.8.bias": [
+        200
+      ],
+      "net.9.m": [
+        200
+      ],
+      "net.10.weight": [
+        200,
+        200
+      ],
+      "net.10.bias": [
+        200
+      ],
+      "net.11.m": [
+        200
+      ],
+      "net.12.weight": [
+        2,
+        200
+      ],
+      "net.12.bias": [
+        2
+      ]
+    }
+  },
+  {
+    "path": "results/circlehole1/alpha30-step3/ckpt_alpha30_A1.pt",
+    "step": 4,
+    "damage_nodes": 21088,
+    "history_elements": 41631,
+    "network_parameter_shapes": {
+      "net.0.weight": [
+        200,
+        2
+      ],
+      "net.0.bias": [
+        200
+      ],
+      "net.1.m": [
+        200
+      ],
+      "net.2.weight": [
+        200,
+        200
+      ],
+      "net.2.bias": [
+        200
+      ],
+      "net.3.m": [
+        200
+      ],
+      "net.4.weight": [
+        200,
+        200
+      ],
+      "net.4.bias": [
+        200
+      ],
+      "net.5.m": [
+        200
+      ],
+      "net.6.weight": [
+        200,
+        200
+      ],
+      "net.6.bias": [
+        200
+      ],
+      "net.7.m": [
+        200
+      ],
+      "net.8.weight": [
+        200,
+        200
+      ],
+      "net.8.bias": [
+        200
+      ],
+      "net.9.m": [
+        200
+      ],
+      "net.10.weight": [
+        200,
+        200
+      ],
+      "net.10.bias": [
+        200
+      ],
+      "net.11.m": [
+        200
+      ],
+      "net.12.weight": [
+        2,
+        200
+      ],
+      "net.12.bias": [
+        2
+      ]
+    }
+  },
+  {
+    "path": "results/circlehole1/alpha30-step35/ckpt_alpha30_A1.pt",
+    "step": 36,
+    "damage_nodes": 21088,
+    "history_elements": 41631,
+    "network_parameter_shapes": {
+      "net.0.weight": [
+        200,
+        2
+      ],
+      "net.0.bias": [
+        200
+      ],
+      "net.1.m": [
+        200
+      ],
+      "net.2.weight": [
+        200,
+        200
+      ],
+      "net.2.bias": [
+        200
+      ],
+      "net.3.m": [
+        200
+      ],
+      "net.4.weight": [
+        200,
+        200
+      ],
+      "net.4.bias": [
+        200
+      ],
+      "net.5.m": [
+        200
+      ],
+      "net.6.weight": [
+        200,
+        200
+      ],
+      "net.6.bias": [
+        200
+      ],
+      "net.7.m": [
+        200
+      ],
+      "net.8.weight": [
+        200,
+        200
+      ],
+      "net.8.bias": [
+        200
+      ],
+      "net.9.m": [
+        200
+      ],
+      "net.10.weight": [
+        200,
+        200
+      ],
+      "net.10.bias": [
+        200
+      ],
+      "net.11.m": [
+        200
+      ],
+      "net.12.weight": [
+        2,
+        200
+      ],
+      "net.12.bias": [
+        2
+      ]
+    }
+  },
+  {
+    "path": "results/circlehole1/alpha30-step6/ckpt_alpha30_A1.pt",
+    "step": 7,
+    "damage_nodes": 21088,
+    "history_elements": 41631,
+    "network_parameter_shapes": {
+      "net.0.weight": [
+        200,
+        2
+      ],
+      "net.0.bias": [
+        200
+      ],
+      "net.1.m": [
+        200
+      ],
+      "net.2.weight": [
+        200,
+        200
+      ],
+      "net.2.bias": [
+        200
+      ],
+      "net.3.m": [
+        200
+      ],
+      "net.4.weight": [
+        200,
+        200
+      ],
+      "net.4.bias": [
+        200
+      ],
+      "net.5.m": [
+        200
+      ],
+      "net.6.weight": [
+        200,
+        200
+      ],
+      "net.6.bias": [
+        200
+      ],
+      "net.7.m": [
+        200
+      ],
+      "net.8.weight": [
+        200,
+        200
+      ],
+      "net.8.bias": [
+        200
+      ],
+      "net.9.m": [
+        200
+      ],
+      "net.10.weight": [
+        200,
+        200
+      ],
+      "net.10.bias": [
+        200
+      ],
+      "net.11.m": [
+        200
+      ],
+      "net.12.weight": [
+        2,
+        200
+      ],
+      "net.12.bias": [
+        2
+      ]
+    }
+  },
+  {
+    "path": "results/circlehole1/alpha30-step9/ckpt_alpha30_A1.pt",
+    "step": 10,
+    "damage_nodes": 21088,
+    "history_elements": 41631,
+    "network_parameter_shapes": {
+      "net.0.weight": [
+        200,
+        2
+      ],
+      "net.0.bias": [
+        200
+      ],
+      "net.1.m": [
+        200
+      ],
+      "net.2.weight": [
+        200,
+        200
+      ],
+      "net.2.bias": [
+        200
+      ],
+      "net.3.m": [
+        200
+      ],
+      "net.4.weight": [
+        200,
+        200
+      ],
+      "net.4.bias": [
+        200
+      ],
+      "net.5.m": [
+        200
+      ],
+      "net.6.weight": [
+        200,
+        200
+      ],
+      "net.6.bias": [
+        200
+      ],
+      "net.7.m": [
+        200
+      ],
+      "net.8.weight": [
+        200,
+        200
+      ],
+      "net.8.bias": [
+        200
+      ],
+      "net.9.m": [
+        200
+      ],
+      "net.10.weight": [
+        200,
+        200
+      ],
+      "net.10.bias": [
+        200
+      ],
+      "net.11.m": [
+        200
+      ],
+      "net.12.weight": [
+        2,
+        200
+      ],
+      "net.12.bias": [
+        2
+      ]
+    }
+  },
+  {
+    "path": "results/circlehole1/alpha45/ckpt_alpha45_A1.pt",
+    "step": 15,
+    "damage_nodes": 21088,
+    "history_elements": 41631,
+    "network_parameter_shapes": {
+      "net.0.weight": [
+        200,
+        2
+      ],
+      "net.0.bias": [
+        200
+      ],
+      "net.1.m": [
+        200
+      ],
+      "net.2.weight": [
+        200,
+        200
+      ],
+      "net.2.bias": [
+        200
+      ],
+      "net.3.m": [
+        200
+      ],
+      "net.4.weight": [
+        200,
+        200
+      ],
+      "net.4.bias": [
+        200
+      ],
+      "net.5.m": [
+        200
+      ],
+      "net.6.weight": [
+        200,
+        200
+      ],
+      "net.6.bias": [
+        200
+      ],
+      "net.7.m": [
+        200
+      ],
+      "net.8.weight": [
+        200,
+        200
+      ],
+      "net.8.bias": [
+        200
+      ],
+      "net.9.m": [
+        200
+      ],
+      "net.10.weight": [
+        200,
+        200
+      ],
+      "net.10.bias": [
+        200
+      ],
+      "net.11.m": [
+        200
+      ],
+      "net.12.weight": [
+        2,
+        200
+      ],
+      "net.12.bias": [
+        2
+      ]
+    }
+  },
+  {
+    "path": "results/circlehole1/alpha60/ckpt_alpha60_A1.pt",
+    "step": 12,
+    "damage_nodes": 21088,
+    "history_elements": 41631,
+    "network_parameter_shapes": {
+      "net.0.weight": [
+        200,
+        2
+      ],
+      "net.0.bias": [
+        200
+      ],
+      "net.1.m": [
+        200
+      ],
+      "net.2.weight": [
+        200,
+        200
+      ],
+      "net.2.bias": [
+        200
+      ],
+      "net.3.m": [
+        200
+      ],
+      "net.4.weight": [
+        200,
+        200
+      ],
+      "net.4.bias": [
+        200
+      ],
+      "net.5.m": [
+        200
+      ],
+      "net.6.weight": [
+        200,
+        200
+      ],
+      "net.6.bias": [
+        200
+      ],
+      "net.7.m": [
+        200
+      ],
+      "net.8.weight": [
+        200,
+        200
+      ],
+      "net.8.bias": [
+        200
+      ],
+      "net.9.m": [
+        200
+      ],
+      "net.10.weight": [
+        200,
+        200
+      ],
+      "net.10.bias": [
+        200
+      ],
+      "net.11.m": [
+        200
+      ],
+      "net.12.weight": [
+        2,
+        200
+      ],
+      "net.12.bias": [
+        2
+      ]
+    }
+  },
+  {
+    "path": "results/hole/C/ckpt_hole_C.pt",
+    "step": 27,
+    "damage_nodes": 9565,
+    "history_elements": 18825,
+    "network_parameter_shapes": {
+      "net.0.weight": [
+        200,
+        2
+      ],
+      "net.0.bias": [
+        200
+      ],
+      "net.1.m": [
+        200
+      ],
+      "net.2.weight": [
+        200,
+        200
+      ],
+      "net.2.bias": [
+        200
+      ],
+      "net.3.m": [
+        200
+      ],
+      "net.4.weight": [
+        200,
+        200
+      ],
+      "net.4.bias": [
+        200
+      ],
+      "net.5.m": [
+        200
+      ],
+      "net.6.weight": [
+        200,
+        200
+      ],
+      "net.6.bias": [
+        200
+      ],
+      "net.7.m": [
+        200
+      ],
+      "net.8.weight": [
+        200,
+        200
+      ],
+      "net.8.bias": [
+        200
+      ],
+      "net.9.m": [
+        200
+      ],
+      "net.10.weight": [
+        200,
+        200
+      ],
+      "net.10.bias": [
+        200
+      ],
+      "net.11.m": [
+        200
+      ],
+      "net.12.weight": [
+        2,
+        200
+      ],
+      "net.12.bias": [
+        2
+      ]
+    }
+  },
+  {
+    "path": "results/hole/S/ckpt_hole_S.pt",
+    "step": 25,
+    "damage_nodes": 9587,
+    "history_elements": 18854,
+    "network_parameter_shapes": {
+      "net.0.weight": [
+        200,
+        2
+      ],
+      "net.0.bias": [
+        200
+      ],
+      "net.1.m": [
+        200
+      ],
+      "net.2.weight": [
+        200,
+        200
+      ],
+      "net.2.bias": [
+        200
+      ],
+      "net.3.m": [
+        200
+      ],
+      "net.4.weight": [
+        200,
+        200
+      ],
+      "net.4.bias": [
+        200
+      ],
+      "net.5.m": [
+        200
+      ],
+      "net.6.weight": [
+        200,
+        200
+      ],
+      "net.6.bias": [
+        200
+      ],
+      "net.7.m": [
+        200
+      ],
+      "net.8.weight": [
+        200,
+        200
+      ],
+      "net.8.bias": [
+        200
+      ],
+      "net.9.m": [
+        200
+      ],
+      "net.10.weight": [
+        200,
+        200
+      ],
+      "net.10.bias": [
+        200
+      ],
+      "net.11.m": [
+        200
+      ],
+      "net.12.weight": [
+        2,
+        200
+      ],
+      "net.12.bias": [
+        2
+      ]
+    }
+  },
+  {
+    "path": "results/hole/T/ckpt_hole_T.pt",
+    "step": 23,
+    "damage_nodes": 10440,
+    "history_elements": 20535,
+    "network_parameter_shapes": {
+      "net.0.weight": [
+        200,
+        2
+      ],
+      "net.0.bias": [
+        200
+      ],
+      "net.1.m": [
+        200
+      ],
+      "net.2.weight": [
+        200,
+        200
+      ],
+      "net.2.bias": [
+        200
+      ],
+      "net.3.m": [
+        200
+      ],
+      "net.4.weight": [
+        200,
+        200
+      ],
+      "net.4.bias": [
+        200
+      ],
+      "net.5.m": [
+        200
+      ],
+      "net.6.weight": [
+        200,
+        200
+      ],
+      "net.6.bias": [
+        200
+      ],
+      "net.7.m": [
+        200
+      ],
+      "net.8.weight": [
+        200,
+        200
+      ],
+      "net.8.bias": [
+        200
+      ],
+      "net.9.m": [
+        200
+      ],
+      "net.10.weight": [
+        200,
+        200
+      ],
+      "net.10.bias": [
+        200
+      ],
+      "net.11.m": [
+        200
+      ],
+      "net.12.weight": [
+        2,
+        200
+      ],
+      "net.12.bias": [
+        2
+      ]
+    }
+  },
+  {
+    "path": "results/interface/strong1/ckpt_interface_strong1.pt",
+    "step": 25,
+    "damage_nodes": 14365,
+    "history_elements": 28498,
+    "network_parameter_shapes": {
+      "net.0.weight": [
+        200,
+        2
+      ],
+      "net.0.bias": [
+        200
+      ],
+      "net.1.m": [
+        200
+      ],
+      "net.2.weight": [
+        200,
+        200
+      ],
+      "net.2.bias": [
+        200
+      ],
+      "net.3.m": [
+        200
+      ],
+      "net.4.weight": [
+        200,
+        200
+      ],
+      "net.4.bias": [
+        200
+      ],
+      "net.5.m": [
+        200
+      ],
+      "net.6.weight": [
+        200,
+        200
+      ],
+      "net.6.bias": [
+        200
+      ],
+      "net.7.m": [
+        200
+      ],
+      "net.8.weight": [
+        200,
+        200
+      ],
+      "net.8.bias": [
+        200
+      ],
+      "net.9.m": [
+        200
+      ],
+      "net.10.weight": [
+        200,
+        200
+      ],
+      "net.10.bias": [
+        200
+      ],
+      "net.11.m": [
+        200
+      ],
+      "net.12.weight": [
+        2,
+        200
+      ],
+      "net.12.bias": [
+        2
+      ]
+    }
+  },
+  {
+    "path": "results/interface/weak/ckpt_interface_weak.pt",
+    "step": 32,
+    "damage_nodes": 14365,
+    "history_elements": 28498,
+    "network_parameter_shapes": {
+      "net.0.weight": [
+        200,
+        2
+      ],
+      "net.0.bias": [
+        200
+      ],
+      "net.1.m": [
+        200
+      ],
+      "net.2.weight": [
+        200,
+        200
+      ],
+      "net.2.bias": [
+        200
+      ],
+      "net.3.m": [
+        200
+      ],
+      "net.4.weight": [
+        200,
+        200
+      ],
+      "net.4.bias": [
+        200
+      ],
+      "net.5.m": [
+        200
+      ],
+      "net.6.weight": [
+        200,
+        200
+      ],
+      "net.6.bias": [
+        200
+      ],
+      "net.7.m": [
+        200
+      ],
+      "net.8.weight": [
+        200,
+        200
+      ],
+      "net.8.bias": [
+        200
+      ],
+      "net.9.m": [
+        200
+      ],
+      "net.10.weight": [
+        200,
+        200
+      ],
+      "net.10.bias": [
+        200
+      ],
+      "net.11.m": [
+        200
+      ],
+      "net.12.weight": [
+        2,
+        200
+      ],
+      "net.12.bias": [
+        2
+      ]
+    }
+  },
+  {
+    "path": "results/SENT1/SENT30/ckpt_SENT30_A1.pt",
+    "step": 24,
+    "damage_nodes": 8627,
+    "history_elements": 17067,
+    "network_parameter_shapes": {
+      "net.0.weight": [
+        200,
+        2
+      ],
+      "net.0.bias": [
+        200
+      ],
+      "net.1.m": [
+        200
+      ],
+      "net.2.weight": [
+        200,
+        200
+      ],
+      "net.2.bias": [
+        200
+      ],
+      "net.3.m": [
+        200
+      ],
+      "net.4.weight": [
+        200,
+        200
+      ],
+      "net.4.bias": [
+        200
+      ],
+      "net.5.m": [
+        200
+      ],
+      "net.6.weight": [
+        200,
+        200
+      ],
+      "net.6.bias": [
+        200
+      ],
+      "net.7.m": [
+        200
+      ],
+      "net.8.weight": [
+        200,
+        200
+      ],
+      "net.8.bias": [
+        200
+      ],
+      "net.9.m": [
+        200
+      ],
+      "net.10.weight": [
+        200,
+        200
+      ],
+      "net.10.bias": [
+        200
+      ],
+      "net.11.m": [
+        200
+      ],
+      "net.12.weight": [
+        2,
+        200
+      ],
+      "net.12.bias": [
+        2
+      ]
+    }
+  },
+  {
+    "path": "results/SENT1/SENT45/ckpt_SENT45_A1.pt",
+    "step": 23,
+    "damage_nodes": 8484,
+    "history_elements": 16782,
+    "network_parameter_shapes": {
+      "net.0.weight": [
+        200,
+        2
+      ],
+      "net.0.bias": [
+        200
+      ],
+      "net.1.m": [
+        200
+      ],
+      "net.2.weight": [
+        200,
+        200
+      ],
+      "net.2.bias": [
+        200
+      ],
+      "net.3.m": [
+        200
+      ],
+      "net.4.weight": [
+        200,
+        200
+      ],
+      "net.4.bias": [
+        200
+      ],
+      "net.5.m": [
+        200
+      ],
+      "net.6.weight": [
+        200,
+        200
+      ],
+      "net.6.bias": [
+        200
+      ],
+      "net.7.m": [
+        200
+      ],
+      "net.8.weight": [
+        200,
+        200
+      ],
+      "net.8.bias": [
+        200
+      ],
+      "net.9.m": [
+        200
+      ],
+      "net.10.weight": [
+        200,
+        200
+      ],
+      "net.10.bias": [
+        200
+      ],
+      "net.11.m": [
+        200
+      ],
+      "net.12.weight": [
+        2,
+        200
+      ],
+      "net.12.bias": [
+        2
+      ]
+    }
+  },
+  {
+    "path": "results/SENT1/SENT60/ckpt_SENT60_A1.pt",
+    "step": 24,
+    "damage_nodes": 8591,
+    "history_elements": 16995,
+    "network_parameter_shapes": {
+      "net.0.weight": [
+        200,
+        2
+      ],
+      "net.0.bias": [
+        200
+      ],
+      "net.1.m": [
+        200
+      ],
+      "net.2.weight": [
+        200,
+        200
+      ],
+      "net.2.bias": [
+        200
+      ],
+      "net.3.m": [
+        200
+      ],
+      "net.4.weight": [
+        200,
+        200
+      ],
+      "net.4.bias": [
+        200
+      ],
+      "net.5.m": [
+        200
+      ],
+      "net.6.weight": [
+        200,
+        200
+      ],
+      "net.6.bias": [
+        200
+      ],
+      "net.7.m": [
+        200
+      ],
+      "net.8.weight": [
+        200,
+        200
+      ],
+      "net.8.bias": [
+        200
+      ],
+      "net.9.m": [
+        200
+      ],
+      "net.10.weight": [
+        200,
+        200
+      ],
+      "net.10.bias": [
+        200
+      ],
+      "net.11.m": [
+        200
+      ],
+      "net.12.weight": [
+        2,
+        200
+      ],
+      "net.12.bias": [
+        2
+      ]
+    }
+  },
+  {
+    "path": "results/SENT1/SENT90/ckpt_SENT90_A1.pt",
+    "step": 24,
+    "damage_nodes": 17629,
+    "history_elements": 35030,
+    "network_parameter_shapes": {
+      "net.0.weight": [
+        200,
+        2
+      ],
+      "net.0.bias": [
+        200
+      ],
+      "net.1.m": [
+        200
+      ],
+      "net.2.weight": [
+        200,
+        200
+      ],
+      "net.2.bias": [
+        200
+      ],
+      "net.3.m": [
+        200
+      ],
+      "net.4.weight": [
+        200,
+        200
+      ],
+      "net.4.bias": [
+        200
+      ],
+      "net.5.m": [
+        200
+      ],
+      "net.6.weight": [
+        200,
+        200
+      ],
+      "net.6.bias": [
+        200
+      ],
+      "net.7.m": [
+        200
+      ],
+      "net.8.weight": [
+        200,
+        200
+      ],
+      "net.8.bias": [
+        200
+      ],
+      "net.9.m": [
+        200
+      ],
+      "net.10.weight": [
+        200,
+        200
+      ],
+      "net.10.bias": [
+        200
+      ],
+      "net.11.m": [
+        200
+      ],
+      "net.12.weight": [
+        2,
+        200
+      ],
+      "net.12.bias": [
+        2
+      ]
+    }
+  }
+]
