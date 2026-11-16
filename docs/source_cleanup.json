@@ -1,0 +1,590 @@
+[
+  {
+    "source": "example/verification/main.py",
+    "release": "examples/verification/main.py",
+    "source_sha256": "207083a0478ee67154818ca60f8b7b3176a9f3633df37a4543b548f1338cf40c",
+    "removed_sections": [
+      {
+        "start_line": 100,
+        "end_line": 116,
+        "reason": "automatic visualization helper"
+      },
+      {
+        "start_line": 381,
+        "end_line": 381,
+        "reason": "unused visualization path"
+      },
+      {
+        "start_line": 382,
+        "end_line": 382,
+        "reason": "create numerical output directory without figure subdirectory"
+      },
+      {
+        "start_line": 558,
+        "end_line": 558,
+        "reason": "unused visualization path"
+      },
+      {
+        "start_line": 559,
+        "end_line": 560,
+        "reason": "automatic visualization call"
+      }
+    ],
+    "unchanged_numerical_classes_and_helpers": [
+      "u_at_step",
+      "stag_hparams",
+      "theta_for_layup",
+      "make_bc_functions",
+      "FullEnergyMaterial",
+      "local_driving_components",
+      "AnisoPhaseFieldSolver",
+      "compute_reaction_force",
+      "truncate_csv"
+    ]
+  },
+  {
+    "source": "example/verification/main_fem.py",
+    "release": "examples/verification/main_fem.py",
+    "source_sha256": "88d22291f6348113fb5264aa780f8445d874bf12f76f46e472865c982f2647d9",
+    "removed_sections": [
+      {
+        "start_line": 274,
+        "end_line": 284,
+        "reason": "automatic visualization helper"
+      },
+      {
+        "start_line": 430,
+        "end_line": 470,
+        "reason": "automatic visualization helper"
+      },
+      {
+        "start_line": 36,
+        "end_line": 36,
+        "reason": "visualization dependency"
+      },
+      {
+        "start_line": 37,
+        "end_line": 37,
+        "reason": "automatic visualization call"
+      },
+      {
+        "start_line": 38,
+        "end_line": 38,
+        "reason": "visualization dependency"
+      },
+      {
+        "start_line": 300,
+        "end_line": 300,
+        "reason": "unused visualization path"
+      },
+      {
+        "start_line": 301,
+        "end_line": 301,
+        "reason": "create numerical output directory without figure subdirectory"
+      },
+      {
+        "start_line": 490,
+        "end_line": 490,
+        "reason": "automatic visualization call"
+      },
+      {
+        "start_line": 403,
+        "end_line": 403,
+        "reason": "unused visualization path"
+      },
+      {
+        "start_line": 404,
+        "end_line": 405,
+        "reason": "automatic visualization call"
+      }
+    ],
+    "unchanged_numerical_classes_and_helpers": [
+      "layup_theta",
+      "build_local_Q",
+      "rotate_Q",
+      "local_driving_components",
+      "FEMDisplacementSolver",
+      "AnisoPhaseFieldSolver",
+      "write_step_times",
+      "min_edge"
+    ]
+  },
+  {
+    "source": "example/SENT1/main.py",
+    "release": "examples/SENT1/main.py",
+    "source_sha256": "1a3ab0f788355c8f2f1fb4157f7e11f23abb3e39fd13063b270f46abde40caee",
+    "removed_sections": [],
+    "unchanged_numerical_classes_and_helpers": [
+      "stag_hparams",
+      "theta_func",
+      "theta_torch",
+      "make_bc_functions",
+      "FullEnergyMaterial",
+      "local_driving_components",
+      "AnisoPhaseFieldSolver",
+      "compute_reaction_force",
+      "truncate_csv"
+    ]
+  },
+  {
+    "source": "example/SENT1/main_fem.py",
+    "release": "examples/SENT1/main_fem.py",
+    "source_sha256": "70f75ef4f1e86b97dc949dad43ceb5517823f7ff66dce3c82c666bfabd50c2eb",
+    "removed_sections": [
+      {
+        "start_line": 259,
+        "end_line": 269,
+        "reason": "automatic visualization helper"
+      },
+      {
+        "start_line": 410,
+        "end_line": 449,
+        "reason": "automatic visualization helper"
+      },
+      {
+        "start_line": 37,
+        "end_line": 37,
+        "reason": "visualization dependency"
+      },
+      {
+        "start_line": 38,
+        "end_line": 38,
+        "reason": "automatic visualization call"
+      },
+      {
+        "start_line": 39,
+        "end_line": 39,
+        "reason": "visualization dependency"
+      },
+      {
+        "start_line": 274,
+        "end_line": 274,
+        "reason": "unused visualization path"
+      },
+      {
+        "start_line": 275,
+        "end_line": 275,
+        "reason": "create numerical output directory without figure subdirectory"
+      },
+      {
+        "start_line": 468,
+        "end_line": 468,
+        "reason": "automatic visualization call"
+      },
+      {
+        "start_line": 379,
+        "end_line": 379,
+        "reason": "unused visualization path"
+      },
+      {
+        "start_line": 380,
+        "end_line": 381,
+        "reason": "automatic visualization call"
+      }
+    ],
+    "unchanged_numerical_classes_and_helpers": [
+      "build_local_Q",
+      "rotate_Q",
+      "local_driving_components",
+      "FEMDisplacementSolver",
+      "AnisoPhaseFieldSolver",
+      "write_step_times"
+    ]
+  },
+  {
+    "source": "example/circlehole1/main.py",
+    "release": "examples/circlehole1/main.py",
+    "source_sha256": "29a58ee2d581f551c669aead5c86cd3db6101f660b9206bef129009433036837",
+    "removed_sections": [],
+    "unchanged_numerical_classes_and_helpers": [
+      "mesh_key",
+      "mesh_file",
+      "case_name",
+      "stag_hparams",
+      "theta_func",
+      "theta_torch",
+      "make_bc_functions",
+      "FullEnergyMaterial",
+      "local_driving_components",
+      "AnisoPhaseFieldSolver",
+      "compute_reaction_force",
+      "truncate_csv",
+      "read_step_times",
+      "write_step_times"
+    ]
+  },
+  {
+    "source": "example/circlehole1/main_fem.py",
+    "release": "examples/circlehole1/main_fem.py",
+    "source_sha256": "5fe93640d21b6d75dece52c8cd23ce86ca398cf7840346ade631bbdc52823803",
+    "removed_sections": [
+      {
+        "start_line": 326,
+        "end_line": 337,
+        "reason": "automatic visualization helper"
+      },
+      {
+        "start_line": 487,
+        "end_line": 506,
+        "reason": "automatic visualization helper"
+      },
+      {
+        "start_line": 509,
+        "end_line": 577,
+        "reason": "automatic visualization helper"
+      },
+      {
+        "start_line": 46,
+        "end_line": 46,
+        "reason": "visualization dependency"
+      },
+      {
+        "start_line": 47,
+        "end_line": 47,
+        "reason": "automatic visualization call"
+      },
+      {
+        "start_line": 48,
+        "end_line": 48,
+        "reason": "visualization dependency"
+      },
+      {
+        "start_line": 344,
+        "end_line": 344,
+        "reason": "unused visualization path"
+      },
+      {
+        "start_line": 345,
+        "end_line": 345,
+        "reason": "create numerical output directory without figure subdirectory"
+      },
+      {
+        "start_line": 605,
+        "end_line": 605,
+        "reason": "automatic visualization call"
+      },
+      {
+        "start_line": 453,
+        "end_line": 453,
+        "reason": "unused visualization path"
+      },
+      {
+        "start_line": 454,
+        "end_line": 455,
+        "reason": "automatic visualization call"
+      }
+    ],
+    "unchanged_numerical_classes_and_helpers": [
+      "mesh_key",
+      "mesh_file",
+      "case_dir_name",
+      "build_local_Q",
+      "rotate_Q",
+      "local_driving_components",
+      "FEMDisplacementSolver",
+      "AnisoPhaseFieldSolver",
+      "write_step_times"
+    ]
+  },
+  {
+    "source": "example/hole/main.py",
+    "release": "examples/hole/main.py",
+    "source_sha256": "b3d22a0d529efb92063fe8a11438011641de5d77c32d3632db79412d4aaf998c",
+    "removed_sections": [
+      {
+        "start_line": 232,
+        "end_line": 245,
+        "reason": "automatic visualization helper"
+      },
+      {
+        "start_line": 319,
+        "end_line": 343,
+        "reason": "automatic visualization helper"
+      },
+      {
+        "start_line": 532,
+        "end_line": 598,
+        "reason": "automatic visualization helper"
+      },
+      {
+        "start_line": 356,
+        "end_line": 356,
+        "reason": "unused visualization path"
+      },
+      {
+        "start_line": 358,
+        "end_line": 358,
+        "reason": "create numerical output directory without figure subdirectory"
+      },
+      {
+        "start_line": 630,
+        "end_line": 630,
+        "reason": "automatic visualization call"
+      },
+      {
+        "start_line": 493,
+        "end_line": 493,
+        "reason": "unused visualization path"
+      },
+      {
+        "start_line": 494,
+        "end_line": 495,
+        "reason": "automatic visualization call"
+      }
+    ],
+    "unchanged_numerical_classes_and_helpers": [
+      "stag_hparams",
+      "theta_np_func",
+      "theta_torch_func",
+      "make_bc_functions",
+      "FullEnergyMaterial",
+      "local_driving_components",
+      "AnisoPhaseFieldSolver",
+      "compute_reaction_force",
+      "truncate_csv",
+      "csv_is_valid",
+      "repair_csv",
+      "read_step_times",
+      "write_step_times"
+    ]
+  },
+  {
+    "source": "example/hole/main_fem.py",
+    "release": "examples/hole/main_fem.py",
+    "source_sha256": "daa0f3501eef6be268e6b80a95094bbd992f4da00ca09887d1277f391a7fd632",
+    "removed_sections": [
+      {
+        "start_line": 77,
+        "end_line": 100,
+        "reason": "automatic visualization helper"
+      },
+      {
+        "start_line": 284,
+        "end_line": 294,
+        "reason": "automatic visualization helper"
+      },
+      {
+        "start_line": 434,
+        "end_line": 495,
+        "reason": "automatic visualization helper"
+      },
+      {
+        "start_line": 34,
+        "end_line": 34,
+        "reason": "visualization dependency"
+      },
+      {
+        "start_line": 35,
+        "end_line": 35,
+        "reason": "automatic visualization call"
+      },
+      {
+        "start_line": 36,
+        "end_line": 36,
+        "reason": "visualization dependency"
+      },
+      {
+        "start_line": 300,
+        "end_line": 300,
+        "reason": "unused visualization path"
+      },
+      {
+        "start_line": 301,
+        "end_line": 301,
+        "reason": "create numerical output directory without figure subdirectory"
+      },
+      {
+        "start_line": 507,
+        "end_line": 507,
+        "reason": "automatic visualization call"
+      },
+      {
+        "start_line": 399,
+        "end_line": 399,
+        "reason": "unused visualization path"
+      },
+      {
+        "start_line": 400,
+        "end_line": 401,
+        "reason": "automatic visualization call"
+      }
+    ],
+    "unchanged_numerical_classes_and_helpers": [
+      "write_step_times",
+      "build_material_data",
+      "local_driving_components",
+      "FEMDisplacementSolver",
+      "AnisoPhaseFieldSolver"
+    ]
+  },
+  {
+    "source": "example/interface/main.py",
+    "release": "examples/interface/main.py",
+    "source_sha256": "34270eb4fcc48d5fc3da900a729d2c9f784095d610e93ea4a49ee2e9c1cf32ea",
+    "removed_sections": [
+      {
+        "start_line": 287,
+        "end_line": 301,
+        "reason": "automatic visualization helper"
+      },
+      {
+        "start_line": 519,
+        "end_line": 519,
+        "reason": "post-solve summary plot"
+      },
+      {
+        "start_line": 520,
+        "end_line": 530,
+        "reason": "post-solve summary plot"
+      },
+      {
+        "start_line": 531,
+        "end_line": 551,
+        "reason": "post-solve summary plot"
+      },
+      {
+        "start_line": 308,
+        "end_line": 308,
+        "reason": "unused visualization path"
+      },
+      {
+        "start_line": 309,
+        "end_line": 309,
+        "reason": "create numerical output directory without figure subdirectory"
+      },
+      {
+        "start_line": 445,
+        "end_line": 445,
+        "reason": "unused visualization path"
+      },
+      {
+        "start_line": 446,
+        "end_line": 447,
+        "reason": "automatic visualization call"
+      }
+    ],
+    "unchanged_numerical_classes_and_helpers": [
+      "stag_hparams",
+      "make_bc_functions",
+      "build_material_data",
+      "local_driving_components",
+      "InterfacePhaseFieldSolver",
+      "InterfaceDEMLoss",
+      "compute_reaction_force",
+      "truncate_csv"
+    ]
+  },
+  {
+    "source": "example/interface/main_fem.py",
+    "release": "examples/interface/main_fem.py",
+    "source_sha256": "201cd799ba83fa542812971a8defaf1f63315c0a693d62913c357863633ceee8",
+    "removed_sections": [
+      {
+        "start_line": 273,
+        "end_line": 283,
+        "reason": "automatic visualization helper"
+      },
+      {
+        "start_line": 424,
+        "end_line": 424,
+        "reason": "post-solve summary plot"
+      },
+      {
+        "start_line": 425,
+        "end_line": 436,
+        "reason": "post-solve summary plot"
+      },
+      {
+        "start_line": 437,
+        "end_line": 437,
+        "reason": "post-solve summary plot"
+      },
+      {
+        "start_line": 438,
+        "end_line": 438,
+        "reason": "post-solve summary plot"
+      },
+      {
+        "start_line": 439,
+        "end_line": 439,
+        "reason": "post-solve summary plot"
+      },
+      {
+        "start_line": 440,
+        "end_line": 440,
+        "reason": "post-solve summary plot"
+      },
+      {
+        "start_line": 441,
+        "end_line": 441,
+        "reason": "post-solve summary plot"
+      },
+      {
+        "start_line": 442,
+        "end_line": 442,
+        "reason": "post-solve summary plot"
+      },
+      {
+        "start_line": 443,
+        "end_line": 443,
+        "reason": "post-solve summary plot"
+      },
+      {
+        "start_line": 444,
+        "end_line": 444,
+        "reason": "post-solve summary plot"
+      },
+      {
+        "start_line": 445,
+        "end_line": 445,
+        "reason": "post-solve summary plot"
+      },
+      {
+        "start_line": 446,
+        "end_line": 446,
+        "reason": "post-solve summary plot"
+      },
+      {
+        "start_line": 35,
+        "end_line": 35,
+        "reason": "visualization dependency"
+      },
+      {
+        "start_line": 36,
+        "end_line": 36,
+        "reason": "automatic visualization call"
+      },
+      {
+        "start_line": 37,
+        "end_line": 37,
+        "reason": "visualization dependency"
+      },
+      {
+        "start_line": 289,
+        "end_line": 289,
+        "reason": "unused visualization path"
+      },
+      {
+        "start_line": 290,
+        "end_line": 290,
+        "reason": "create numerical output directory without figure subdirectory"
+      },
+      {
+        "start_line": 389,
+        "end_line": 389,
+        "reason": "unused visualization path"
+      },
+      {
+        "start_line": 390,
+        "end_line": 390,
+        "reason": "automatic visualization call"
+      }
+    ],
+    "unchanged_numerical_classes_and_helpers": [
+      "build_material_data",
+      "local_driving_components",
+      "FEMDisplacementSolver",
+      "InterfacePhaseFieldSolver"
+    ]
+  }
+]
