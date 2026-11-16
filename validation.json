@@ -1,0 +1,57 @@
+{
+  "prepared_date": "2026-11-02",
+  "environment": {
+    "python": "3.10.20",
+    "torch": "2.12.0+cpu",
+    "numpy": "1.26.4",
+    "scipy": "1.15.3",
+    "cuda_available": false
+  },
+  "cli_help_checks": [
+    "examples/verification/main.py",
+    "examples/verification/main_fem.py",
+    "examples/SENT1/main.py",
+    "examples/SENT1/main_fem.py",
+    "examples/circlehole1/main.py",
+    "examples/circlehole1/main_fem.py",
+    "examples/hole/main.py",
+    "examples/hole/main_fem.py",
+    "examples/interface/main.py",
+    "examples/interface/main_fem.py"
+  ],
+  "protected_numerical_kernels": "AST-identical to originals outside visualization/I-O cleanup",
+  "constant_history_phase_field_check": {
+    "status": "passed",
+    "expected_uniform_damage": 0.06734006734006734
+  },
+  "relocated_smoke_runs": {
+    "smoke-dem-fem": {
+      "status": "passed",
+      "nodes": 418,
+      "steps": 1,
+      "damage_min": 0.9999999809086504,
+      "damage_max": 1.0,
+      "prescribed_boundary_displacements": "passed",
+      "accuracy_scope": "startup only; two-epoch DEM-FEM run is intentionally unconverged"
+    },
+    "smoke-fem": {
+      "status": "passed",
+      "nodes": 418,
+      "steps": 1,
+      "damage_min": 0.0004341,
+      "damage_max": 0.00076338,
+      "prescribed_boundary_displacements": "passed",
+      "accuracy_scope": "one increment with staggered convergence"
+    }
+  },
+  "archived_field_files_scanned": 81,
+  "field_files_with_matching_mesh": 80,
+  "documented_missing_mesh": [
+    "results/SENT1/SENT30/results_SENT30_A1.csv"
+  ],
+  "bounded_finite_damage": "passed",
+  "checkpoints_read": 32,
+  "full_fracture_simulations_repeated": false,
+  "gpu_validation_performed": false,
+  "launcher_help_no_output_side_effects": true
+}
